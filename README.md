@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi folks
+
+I here to try angularjs applications. Lets start with some samples.
